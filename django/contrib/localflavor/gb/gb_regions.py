@@ -10,7 +10,7 @@ from django.utils.translation import ugettext_lazy as _
 ENGLAND_REGION_CHOICES = (
     ("Bedfordshire", _("Bedfordshire")),
     ("Buckinghamshire", _("Buckinghamshire")),
-    ("Cambridgeshire", ("Cambridgeshire")),
+    ("Cambridgeshire", _("Cambridgeshire")),
     ("Cheshire", _("Cheshire")),
     ("Cornwall and Isles of Scilly", _("Cornwall and Isles of Scilly")),
     ("Cumbria", _("Cumbria")),
